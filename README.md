@@ -170,3 +170,27 @@ Learning data structures from beginner to advanced levels is essential for becom
 3. **Understand, Don’t Memorize**: Focus on understanding the concepts deeply.
 4. **Participate in Contests**: Compete in coding contests to improve speed and accuracy.
 5. **Build Projects**: Apply data structures in real-world projects.
+
+---
+
+- Arrays
+- Recursion & Backtracking
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Proity Queue and Heap
+- HashTable, HashMap, HashSet [Hashing]
+- Disjoint Set ADT
+- Graphs
+- Sorting Algorithms
+- Searching Algorithms
+- Selection Algorithms
+- Symbol Tables
+- String Algorithms
+- Greedy Algorithms
+- Divide & Conquer
+- Dynamic Programming
+
+-[30 days of code](https://omkarghotekar.medium.com/30-days-of-code-complete-guide-w-resources-dsa-efc0930efbd9)
+-[Data Structures and Algorithms Interview Questions](https://olympus.mygreatlearning.com/courses/56233)
